@@ -1,1 +1,1 @@
-Sitemap: https://unicef.github.io/ict4d-holistic-assessments/sitemap.xml
+Sitemap: https://unicef.github.io/holistic-assessments-for-ict4d/sitemap.xml
