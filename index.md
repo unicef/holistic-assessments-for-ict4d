@@ -1,39 +1,39 @@
-# Table of contents
+---
+cover: .gitbook/assets/UN0367758-Raab.jpg
+coverY: 40
+---
 
-* [Overview](README.md)
-* [The Team](about-guardian-project.md)
-* [Four Dimensions](perspectives-in-four-ways.md)
-* [Glossary](glossary.md)
+# Welcome
 
-## 🧑‍🤝‍🧑 PEOPLE
+Welcome to the Holistic Technical Assessments for ICT4D documentation site. This collection of documents represents a set of perspectives, experiences, and guidelines on engaging with technology within the [Information and Communications Technology for Development (ICT4D)](https://www.unicef.org/topics/information-and-communication-technology) space. In particular, the work focuses on the benefits and impacts of adopting free and open-source software that is secure and privacy-focused. For this work, we deliberately use the term "assessment," though it may be interchangeably referred to as audits, reviews, or evaluations, depending on the context.&#x20;
 
-* [Who We Aim to Help](people/who-we-aim-to-help.md)
-* [Stakeholder Experiences](people/stakeholder-experiences.md)
-* [Threats to Success](people/threats-to-success.md)
+{{< video https://www.youtube.com/watch?v=5kGvF6o3EvU >}}
 
-## 🧗 PROCESS
+## <mark class="purple">Who is this work relevant for? EVERYONE!</mark>
 
-* [Holistic Audits Approach](process/holistic-audits-for-ict4d.md)
-* [An Iterative Process](process/an-iterative-process.md)
-* [Audit Components, Steps and Timeline](process/audit-components-steps-and-timeline.md)
-* [Assets for Review](process/assets-for-review.md)
-* [Software Bill of Materials](process/software-bill-of-materials.md)
-* [Threat and Risk Assessment](process/threat-and-risk-assessment.md)
-* [Application Architecture](process/application-architecture.md)
-* [Source Code Security](process/source-code-security.md)
-* [Vulnerability Scanning](process/vulnerability-scanning.md)
-* [Penetration Testing](process/penetration-testing.md)
-* [Development+Security+Operations](process/devsecops.md)
-* [Evaluation Template](process/evaluation-template.md)
+### Something For You
 
-## 🚀 TECHNOLOGY
+While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologist for development, or in a program or sales role, this guide has something for you. If you are in charge of the audit, or just trying to understand what kind of questions to ask about during an assessment, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
 
-* [On Launching Technology](technology/on-launching-technology.md)
-* [Integration and Diversity](technology/understanding-identity-and-privacy.md)
-* [Project Best Practices](technology/beauty-and-flaws-of-architecture.md)
-* [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
-* [Operational Excellence](technology/development-and-secure-operations.md)
+## <mark class="purple">What you'll find?</mark>
 
-## 🏫 PARTNERS
+Our approach and guiding ethos has been divided into four sections; People, Process, Technology and Partners. Within each section you'll find useful content, practical guidance and tangible takeaways that can help you or your team make informed decisions at various points in the ICT4D process.
 
-* [Outreach and Awareness Guides](partners/outreach-and-awareness-guides.md)
+### [<mark class="orange">People</mark>](./people/foundations.md)
+
+In the [People section](./people/foundations.md) we explore the complex relationships and necessary stakeholders who make a digital transformation process successful. Understand who plays a key role when and where in the process while gleaning insights from our research study to help guide your plan for engagement.
+
+### [<mark class="blue">Process</mark>](./process/holistic-audits-for-ict4d.md)
+
+In the [Process section](./process/holistic-audits-for-ict4d.md) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments. Understand more about how we approach technical assessments, the tangible process we engage in, and the recommended skillsets and pivotal principles necessary for a holistic technical assessment.&#x20;
+
+### [<mark class="green">Technology</mark>](./technology/on-launching-technology.md)
+
+In the [Technology section](./technology/on-launching-technology.md) we share insights and our experiential technical knowledge (with a focus on security and privacy) relevant to designing your development and implementation roadmap and decision-making processes. Understand more about technical best practices and valuable components for a successful engagement.&#x20;
+
+### [<mark class="red">Partners</mark>](./partners/choosing-a-partner.md)
+
+In the [Partners section](./partners/choosing-a-partner.md) you will learn about what to look for when choosing a partner and take a closer look into the four assessments we performed under this project. Read about real-life examples to understand further the vendor engagement and assessment process.
+
+
+### Don't know where to begin? Check out the ['Get Started'](get-started.md) page for jumping off points.
